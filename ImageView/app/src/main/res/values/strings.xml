@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="informatika">Pemrograman Berbasis Mobile</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo lorem justo. Vivamus ut dui sit amet ante cursus consectetur eu ut massa. Donec consectetur tortor ac metus fermentum posuere. Phasellus molestie vestibulum sem sit amet pretium. Phasellus et sodales elit, et vehicula massa. Vivamus sed turpis augue. Nulla vel ligula justo. Nam gravida ornare euismod. Fusce ac imperdiet neque. Ut eget justo lectus. Praesent vehicula at felis ac ullamcorper. Ut et sollicitudin nunc, id consequat augue. Donec sed massa feugiat, cursus justo et, bibendum massa.
+
+Suspendisse sit amet mi dolor. Vestibulum sed tortor pretium, elementum enim sed, malesuada quam. In vitae quam et nulla elementum condimentum. Cras tincidunt risus augue, eu convallis massa accumsan quis. Aliquam augue lacus, sollicitudin vel eleifend sollicitudin, ornare eget lorem. Praesent dictum commodo elit sed convallis. Sed fermentum tristique quam, ac varius sapien tristique sed. Cras aliquam tortor ex, ac placerat arcu dapibus facilisis. Maecenas id rutrum ipsum. Curabitur vehicula dolor vitae libero ultricies aliquam. Ut molestie metus euismod, dictum nunc quis, malesuada felis. Etiam orci orci, iaculis eget ornare eu, semper et justo.
+
+In ac dapibus ligula, at porta libero. Ut molestie, purus ut volutpat ultrices, lectus justo rhoncus ligula, ut rutrum felis arcu non diam. Quisque ullamcorper nunc dapibus mattis porta. Ut hendrerit tellus quis velit scelerisque porta. Quisque libero risus, fringilla a dignissim vitae, imperdiet nec massa. Praesent non vestibulum tellus. Aliquam neque purus, semper vel porta vel, vehicula vel est. Integer sit amet orci sit amet ex congue imperdiet vitae pellentesque sem. Sed posuere mollis aliquet. Maecenas non elit ut est varius consectetur ut ut enim.
+
+Aenean nec vestibulum diam. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Sed laoreet, odio sit amet sollicitudin suscipit, turpis mi condimentum leo, ac mollis nisl libero eget nisl. Morbi eleifend varius ligula eget mollis. Fusce aliquet ex sed risus aliquam accumsan. Curabitur vitae nisi lacus. Duis porttitor dignissim lacus, ac mattis justo malesuada nec. Sed porttitor augue maximus erat facilisis faucibus. Aliquam a mauris interdum, euismod libero et, pulvinar odio. Curabitur nibh lorem, tristique a aliquet at, ullamcorper sed nisi. Integer consequat leo vitae sagittis semper. Proin porta lacus nec augue consectetur, porttitor consequat ante luctus.
+
+</string>
+    <string name="asset">Asset</string>
+</resources>

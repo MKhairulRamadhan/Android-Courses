@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPBM</string>
+    <string name="submit">Submit</string>
+    <string name="input_data_mahasiswa">Input Data Mahasiswa</string>
+    <string name="nim">Nim..!</string>
+    <string name="nama">Nama..!</string>
+    <string name="fakultas">Fakultas..!</string>
+</resources>
